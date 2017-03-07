@@ -1,0 +1,27 @@
+{
+  "name": "eldritch-horror-core",
+  "version": "1.0.0",
+  "description": "Eldritch Horror board game engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maxkazar/eldritch-horror-core.git"
+  },
+  "keywords": [
+    "elditch",
+    "horror",
+    "baord",
+    "game",
+    "engine",
+    "core"
+  ],
+  "author": "Max Kazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxkazar/eldritch-horror-core/issues"
+  },
+  "homepage": "https://github.com/maxkazar/eldritch-horror-core#readme"
+}
